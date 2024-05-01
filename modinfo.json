@@ -3,11 +3,11 @@
 	"name": "Vinkspansion Pak",
 	"version": "0.1.0",
 	"hide_version": false,
-	"authors": "OlayColay",
+	"authors": [ "OlayColay", "rwslugcat" ],
 	"description": "Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.",
 	"requirements": [ "olaycolay.thevinki" ],
 	"requirements_names": [ "The Vinki" ],
-	"priorities": [ "howling_rift" ],
+	"priorities": [ "howling_rift", "pilgrims_ascent" ],
 	"checksum_override_version": false,
 	"tags": [ "Regions" ]
 }
