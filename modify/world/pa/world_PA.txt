@@ -1,6 +1,5 @@
 [MERGE]
 CONDITIONAL LINKS
-
 vinki : REPLACEROOM : PA_A16 : PA_A16VINKI
 vinki : REPLACEROOM : PA_A19 : PA_A19VINKI
 vinki : REPLACEROOM : PA_A21 : PA_A21VINKI
@@ -14,6 +13,21 @@ vinki : REPLACEROOM : PA_E03 : PA_E03VINKI
 vinki : REPLACEROOM : PA_F02 : PA_F02VINKI
 vinki : REPLACEROOM : PA_F04 : PA_F04VINKI
 vinki : REPLACEROOM : PA_H01 : PA_H01VINKI
-
 END CONDITIONAL LINKS
+
+CREATURES
+(vinki)PA_B10 : 3-White-2
+(vinki)PA_B10 : 3-Cyan-2
+(vinki)PA_D02 : 2-Cyan
+(vinki)PA_C02 : 2-Cyan
+(vinki)PA_C03 : 2-Inspector-{Ignorecycle}
+(vinki)PA_C05 : 2-Inspector-{Ignorecycle}
+(vinki)PA_D04 : 2-White, 3-Cyan 
+(vinki)PA_D05 : 3-Inspector-{Ignorecycle}
+(vinki)PA_E02 : 2-White, 3-Cyan
+(vinki)PA_F03 : 4-Inspector-{Ignorecycle}
+(vinki)PA_H02 : 3-DropBug, 4-White, 5-White-2, 6-PoleMimic, 7-DropBug-2
+(vinki)PA_H02 : 3-DropBug-2, 4-Cyan, 5-White-2, 6-PoleMimic, 7-DropBug
+END CREATURES
+
 [END MERGE]

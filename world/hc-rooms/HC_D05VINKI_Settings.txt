@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.2173913
+Grime: 0.2391304
+Palette: 141
+EffectColorA: 15
+EffectColorB: 18
+Effects: FireFlies-0.6956522-20-20, 
+PlacedObjects: LightSource><834.6985><590.0242><0.4891304~EffectColor1~-10~138~-575~-4.397461~1~0~None~0~0, LightSource><1578.007><2429.8><0.0326087~Environment~7~-560~-117~-207.3975~1~1~None~0~0, LightSource><1590.601><2440.115><0.1630435~Environment~40~-350~-132~-362.3975~1~0~None~0~0, LightSource><219.8134><308.322><1~EffectColor2~52~-39~-340~69.60254~1~0~None~0~0, LightSource><1097.596><2138.873><0.09782609~Environment~5~237~50~86.60254~1~1~None~0~0, LightSource><2181.86><2205.333><0.1195652~EffectColor1~0~100~50~86.60254~1~1~None~0~0, LightSource><1283.582><1697.393><0.1195652~EffectColor1~0~100~50~86.60254~1~1~None~0~0, LightSource><1286.823><2431.313><0.1195652~EffectColor1~0~100~50~86.60254~1~1~None~0~0, LightSource><1274.922><2072.417><0.1195652~EffectColor1~0~100~50~86.60254~1~1~None~0~0, LightSource><2049.877><2207.137><0.1847826~EffectColor1~-222~59~50.00482~86.60254~1~1~None~0~0, LightBeam><1156.815><1188.925><-262~72~-270~217~268~293~0~0~0.3999999~0~1~1~None~0~0, LightSource><2060.128><1435.828><0.06521739~Environment~-544~71~-554~-30.39746~1~1~None~0~0, LightBeam><1334.55><1156.008><-300~92~-318~291~25~336~-199~-178~0.7043477~0~0.8913044~1~None~0~0, 
+AmbientSounds: OMNI><AM_IND-Factory03.ogg><763.342><172.5724><1><0.5108696, 
+FadePalette: 4, 0.2826087, 0.3043478, 0.326087, 0.3586957

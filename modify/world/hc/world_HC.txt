@@ -1,6 +1,5 @@
 [MERGE]
 CONDITIONAL LINKS
-
 vinki : REPLACEROOM : HC_A08 : HC_A08VINKI
 vinki : REPLACEROOM : HC_B05 : HC_B05VINKI
 vinki : REPLACEROOM : HC_B07 : HC_B07VINKI
@@ -28,6 +27,22 @@ vinki : REPLACEROOM : HC_F04 : HC_F04VINKI
 vinki : REPLACEROOM : HC_F05 : HC_F05VINKI
 vinki : REPLACEROOM : HC_H01 : HC_H01VINKI
 vinki : REPLACEROOM : HC_PIT : HC_PITVINKI
-
 END CONDITIONAL LINKS
+
+CREATURES
+(vinki)OFFSCREEN : 0-FatFireFly-4, 0-MirosBird-16
+(vinki)HC_B09 : 5-Red Centipede
+(vinki)HC_D02 : 6-SpitterSpider
+(vinki)HC_F01 : 9-SpitterSpider, 8-SpitterSpider
+(vinki)HC_F03 : 4-SpitterSpider
+(vinki)HC_B11 : 3-Centipede-{0.4}, 4-Centipede-{0.5}
+(vinki)HC_B12 : 4-SpitterSpider, 6-Spider-10
+(vinki)HC_F01 : 3-Centipede-{0.5}-2
+(vinki)HC_B04 : 6-SpitterSpider
+(vinki)HC_C06 : 3-WhiteLizard
+(vinki)HC_F04 : 3-Centipede-{0.4}
+(vinki)HC_D09 : 5-WhiteLizard
+(vinki)HC_B13 : 5-BlueLizard
+(vinki)HC_D06 : 4-WhiteLizard
+END CREATURES
 [END MERGE]
