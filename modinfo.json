@@ -7,7 +7,7 @@
 	"description": "Play as an angsty teen wearing rail-grinding shoes and spraying graffiti to enact revenge on 5P.",
 	"requirements": [ "olaycolay.thevinki" ],
 	"requirements_names": [ "The Vinki" ],
-	"priorities": [ "howling_rift", "pilgrims_ascent" ],
+	"priorities": [ "howling_rift", "pilgrims_ascent", "rwslugcatondiscord_subtexpanded"],
 	"checksum_override_version": false,
 	"tags": [ "Regions" ]
 }
